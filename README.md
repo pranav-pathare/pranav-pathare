@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pranav Pathare 👋</h1>
-<h3 align="center">AdOps & Campaign Management @ PayPal | Building towards AI Engineering</h3>
+<h3 align="center">AdOps | Campaign Management | Media Planner @ Accel | Building towards AI Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patharepranav/">
