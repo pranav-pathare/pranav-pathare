@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 💼 I work in **Ad Operations & Campaign Management** at **PayPal**, managing merchant offer campaigns, reward messaging, and cross-platform campaign workflows.
+- 💼 I work in **Ad Operations & Campaign Management** at **Accel**, managing merchant offer campaigns, reward messaging, and cross-platform campaign workflows.
 - 🌱 I'm currently building my skills in **Python, ML, and AI agent development** — with a goal of transitioning into an **AI Engineer** role.
 - 🤖 I've been experimenting with **AI agents** built on the **Anthropic API**, connecting them to real workflows like calendar scheduling.
 - 🧠 I actively participate in **Pune's AI/tech community** — meetups, hackathons, and builder events.
