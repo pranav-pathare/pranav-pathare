@@ -15,8 +15,7 @@
 - 🌱 I'm currently building my skills in **Python, ML, and AI agent development** — with a goal of transitioning into an **AI Engineer** role.
 - 🤖 I've been experimenting with **AI agents** built on the **Anthropic API**, connecting them to real workflows like calendar scheduling.
 - 🧠 I actively participate in **Pune's AI/tech community** — meetups, hackathons, and builder events.
-- 📊 I have a background in **AdTech/AdOps** — Google Ad Manager, Campaign Manager 360, and large-scale campaign & data analysis (BigQuery/SQL).
-- 💰 Outside of work, I follow the **Indian markets** with a long-term, conservative investing lens.
+- 📊 I have a background in **Tech & AdOps** — Google Ad Manager, Media Planning, and large-scale campaign & data analysis (BigQuery/SQL).
 - 📍 Based in Pune, India.
 
 ---
