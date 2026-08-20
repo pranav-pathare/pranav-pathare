@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 **MCA** (Master of Computer Applications) & **BCA** (Bachelor of Computer Applications) — a computer science foundation spanning **Data Structures & Algorithms, DBMS, OOP, Operating Systems, and Software Engineering**.
-- 💼 I work in **Ad Operations & Campaign Management** at **Accel**, managing merchant offer campaigns, reward messaging, and cross-platform campaign workflows.
+- 💼 I work in **Ad Operations, Media Planning & Campaign Management** at **Accel**, managing merchant offer campaigns, reward messaging, and cross-platform campaign workflows.
 - 🌱 I'm currently building my skills in **Python, ML, and AI agent development** — with a goal of transitioning into an **AI Engineer** role.
 - 🤖 I've been experimenting with **AI agents** built on the **Anthropic API**, using **tool use / function calling** and **REST API integrations** to connect them to real workflows like calendar scheduling.
 - 🧠 I actively participate in **Pune's AI/tech community** — meetups, hackathons, and builder events.
