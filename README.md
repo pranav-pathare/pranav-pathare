@@ -93,6 +93,9 @@
   <a href="https://www.linkedin.com/in/patharepranav/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://www.instagram.com/pranav.pathare/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 <p align="center"><i>⭐️ From a computer applications background to AdOps to building AI agents — currently in progress.</i></p>
